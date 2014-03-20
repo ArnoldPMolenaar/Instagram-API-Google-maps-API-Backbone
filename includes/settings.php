@@ -1,0 +1,4 @@
+<?php
+define("INSTAGRAM_CLIENT_ID", "1087532719");
+define("COUNT", "-1");
+define("ACCESS_TOKEN", "1087532719.70252bd.f359383c1f9a492a8d4ef00f17d4891e");
